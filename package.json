@@ -1,0 +1,34 @@
+{
+  "name": "patata-cli",
+  "version": "6.0.0",
+  "description": "Native testing made easy",
+  "main": "index.js",
+  "author": {
+    "name": "Miguel Ángel Domínguez Coloma",
+    "email": "m@eridem.net",
+    "url": "http://eridem.net"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "homepage": "http://patata.io",
+  "preferGlobal": true,
+  "keywords": [
+    "patata",
+    "appium",
+    "cucumberjs",
+    "testing",
+    "bdd",
+    "android",
+    "ios",
+    "automation",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/eridem/patata/issues",
+    "email": "m@eridem.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eridem/patata.git"
+  }
+}
